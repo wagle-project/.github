@@ -21,9 +21,11 @@ assignees: ''
 > 실제로 발생한 에러 메시지나 이상 동작을 적어주세요.
 
 ## #️⃣ 테스트 환경 (Environment)
-> 버그가 발생한 환경을 모두 체크해주세요.
+> 버그가 발생한 환경을 모두 체크하고 작성해주세요.
 
-- **Server**: [ ] Local   [ ] Dev
+- **Server**:
+  - [ ] Local
+  - [ ] Dev
 - **Client (Front)**: (예: iPhone 14 / Chrome / 앱 내 웹뷰)
 - **DB Data (Back)**: (예: 특정 축제 ID 5번 데이터가 없는 상태)
 
