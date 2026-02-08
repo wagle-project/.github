@@ -1,5 +1,5 @@
 ---
-name: Feat
+name: ✨ Feat
 about: 새로운 기능을 추가하거나 기존 로직을 개선할 때 사용합니다.
 title: ''
 labels: "✨ Feature"
